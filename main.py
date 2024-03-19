@@ -50,7 +50,7 @@ def load_orders(filename="laundry_orders.json"):
         return []
 
 def main():
-    st.title("Aplikasi Laundry Barokah ss")
+    st.title("Aplikasi Laundry Barokah")
     laundry_orders = load_orders()
 
     menu_options = {
