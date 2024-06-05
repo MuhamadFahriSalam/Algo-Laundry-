@@ -1,38 +1,3 @@
 [
- {
-  "items": [
-   {
-    "name": "Daster",
-    "weight": 15.0,
-    "price": 150000
-   }
-  ]
- },
- {
-  "items": [
-   {
-    "name": "Seprai",
-    "weight": 25.0,
-    "price": 250000
-   }
-  ]
- },
- {
-  "items": [
-   {
-    "name": "Celana",
-    "weight": 23.0,
-    "price": 230000
-   }
-  ]
- },
- {
-  "items": [
-   {
-    "name": "Kaos",
-    "weight": 12.0,
-    "price": 120000
-   }
-  ]
- }
+
 ]
