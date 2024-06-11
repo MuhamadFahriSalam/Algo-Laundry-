@@ -53,7 +53,7 @@ def muat_pesanan(filename="laundry_orders.json"):
         return []
 
 def main():
-    st.title("Aplikasi Laundry Barokah")
+    st.title("Aplikasi Kin En Klin Laundry")
     laundry_pesanans = muat_pesanan()
 
     menu_options = {
